@@ -199,6 +199,10 @@ footer a {
     text-decoration: none;
 }
 
+.instagram-embeds {
+    margin: 30px;
+}
+
 
 section {
     max-width: 100%;
@@ -245,5 +249,6 @@ section.secondary {
     .embed {
         aspect-ratio: 16/9;
     }
+
 }
 
